@@ -1,5 +1,5 @@
 ---
-- hosts: rhel77-1
+- hosts: rhel77-1.test.local
   become: true
   gather_facts: true
   
