@@ -1,5 +1,5 @@
 ---
-- hosts: servers
+- hosts: rhel77-1
   become: true
   gather_facts: true
   
